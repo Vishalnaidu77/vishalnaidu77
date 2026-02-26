@@ -32,11 +32,11 @@
       </code></pre>
 
   <p style="margin-top: 20px;">
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank" style="text-decoration: none;">
+    <a href="https://twitter.com/Vishaldev_" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration: none;">
+    <a href="https://linkedin.com/in/vishal-naidu-46603834a" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
